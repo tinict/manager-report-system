@@ -1,0 +1,1 @@
+export { default as DynamicFormsPage } from "./dynamic-forms";
